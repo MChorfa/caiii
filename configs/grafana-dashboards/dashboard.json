@@ -1,0 +1,19 @@
+{
+  "dashboard": {
+    "id": null,
+    "title": "Composite AI Impact Index",
+    "panels": [
+      {
+        "type": "graph",
+        "title": "AI Model Performance",
+        "targets": [
+          {
+            "expr": "timescaledb_query_latency_seconds",
+            "legendFormat": "{{model}}",
+            "interval": "1m"
+          }
+        ]
+      }
+    ]
+  }
+}
