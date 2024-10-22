@@ -1,5 +1,9 @@
 # Composite AI Impact Index
 
+## DISCLAIMER ❗❗❗
+
+<span style="color:red;">❗ This project is a fictional example created for educational purposes. It does not represent a real company or product. ❗</span>
+
 ## Description
 
 The **Composite AI Impact Index** project is designed to measure the performance, cost, environmental impact, and compliance of AI models. It includes the following components:
